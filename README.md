@@ -1,7 +1,7 @@
 # Ugochukwu Onyebuenyi Data Analytics Projects
-In a Journey to Becoming a Data Analyst. Based in Nigeria. This repository holds my data analytics projects; dashboards, reports, and analysis built with Power BI, Excel, Python and SQL.
+Hi, my name is Ugochukwu Onyebuenyi. I'm in a Journey to Becoming a Data Analyst. Based in Nigeria. This repository holds my data analytics projects; dashboards, reports, and analysis built with Power BI, Excel, Python and SQL.
 
-I'm building toward a BI Analyst role and use these projects to practice turning raw data into business recommendations, not just charts. Each one is framed around a real or realistic business problem, the approach taken to solve it, and the decision it points to.
+I'm building toward a Data Analyst role. I use these projects to practice turning raw data into business recommendations, not just charts. Each one is framed around a real or realistic business problem, the approach taken to solve it, and the decision it points to.
 
 Feedback and questions are welcome. Feel free to open an issue or reach out on LinkedIn or email.
 
