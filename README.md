@@ -1,7 +1,9 @@
-BI Analyst in training, based in Kano, Nigeria. This repository holds my data analytics projects — dashboards, reports, and analysis built with Power BI, Excel, and SQL.
+In a Journey to Becoming a Data Analyst. Based in Nigeria. This repository holds my data analytics projects; dashboards, reports, and analysis built with Power BI, Excel, Python and SQL.
 
-My background is a bit different from most people entering BI: I work as an Optical Technician / Production Operative and I'm a Computer Engineering student at Bayero University, Kano. That combination means I approach data problems the way I approach production and optics work — looking for the root cause, not just the symptom, and translating findings into decisions someone can actually act on.
+I'm building toward a BI Analyst role and use these projects to practice turning raw data into business recommendations, not just charts. Each one is framed around a real or realistic business problem, the approach taken to solve it, and the decision it points to.
 
-Tools: Power BI · SQL · Excel (Pivot Tables, COUNTIF/AVERAGEIF, charting)
+Feedback and questions are welcome. Feel free to open an issue or reach out on LinkedIn or email.
 
-Connect: LinkedIn
+Tools: Excel, Power BI, Python, & SQL
+
+Connect: [LinkedIn](https://www.linkedin.com/in/buggseey/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BO10bGIADRxiSozs4nX7ofQ%3D%3D), ugobuggseey@gmail.com
